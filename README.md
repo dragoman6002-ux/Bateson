@@ -225,5 +225,5 @@ Copy
   title={Pi-Phi-Prime Resonant Information & Consciousness Architecture},
   author={Daniel Edward Dragolich},
   year={2025},
-  url={https://github.com/your-username/pprip-qica},
+  url={https://https://github.com/dragoman6002-ux/Bateson},
 }
